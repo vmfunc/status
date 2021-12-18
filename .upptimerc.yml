@@ -23,10 +23,10 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  theme: dark
+  cname: status.miruku.cafe
+  theme: night
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/geshii/status/gh-pages/logo-192.png
   name: BasedORG Status
   introTitle: "**based.social** is an org hosting multiple services for free, such as mastodon, and more."
   introMessage: This page is updated **real-time**, and contains the current status for all the services, and more
