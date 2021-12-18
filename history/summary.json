@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/based.social",
     "slug": "based-social",
     "status": "up",
-    "uptime": "1.57%",
-    "uptimeDay": "1.57%",
-    "uptimeWeek": "1.57%",
-    "uptimeMonth": "1.57%",
-    "uptimeYear": "1.57%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 777,
     "timeDay": 777,
     "timeWeek": 777,
     "timeMonth": 777,
     "timeYear": 777,
-    "dailyMinutesDown": {
-      "2021-12-18": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
