@@ -1,22 +1,22 @@
 [
   {
     "name": "based.social",
-    "url": "https://www.based.social",
-    "icon": "https://favicons.githubusercontent.com/www.based.social",
+    "url": "https://based.social",
+    "icon": "https://favicons.githubusercontent.com/based.social",
     "slug": "based-social",
-    "status": "down",
-    "uptime": "8.48%",
-    "uptimeDay": "8.48%",
-    "uptimeWeek": "8.48%",
-    "uptimeMonth": "8.48%",
-    "uptimeYear": "8.48%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.57%",
+    "uptimeDay": "1.57%",
+    "uptimeWeek": "1.57%",
+    "uptimeMonth": "1.57%",
+    "uptimeYear": "1.57%",
+    "time": 777,
+    "timeDay": 777,
+    "timeWeek": 777,
+    "timeMonth": 777,
+    "timeYear": 777,
     "dailyMinutesDown": {
-      "2021-12-18": 0
+      "2021-12-18": 3
     }
   },
   {
