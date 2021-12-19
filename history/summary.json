@@ -22,18 +22,20 @@
     "url": "https://miruku.cafe",
     "icon": "https://miruku.cafe/favicon.ico",
     "slug": "miruku",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 819,
-    "timeDay": 819,
-    "timeWeek": 819,
-    "timeMonth": 819,
-    "timeYear": 819,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 798,
+    "timeDay": 798,
+    "timeWeek": 798,
+    "timeMonth": 798,
+    "timeYear": 798,
+    "dailyMinutesDown": {
+      "2021-12-19": 0
+    }
   },
   {
     "name": "Data01 (Amsterdam)",
@@ -77,18 +79,18 @@
     "icon": "http://files.geshii.moe/favicon.ico",
     "slug": "chibisafe-temp-instance",
     "status": "down",
-    "uptime": "51.74%",
+    "uptime": "49.32%",
     "uptimeDay": "52.26%",
-    "uptimeWeek": "51.74%",
-    "uptimeMonth": "51.74%",
-    "uptimeYear": "51.74%",
+    "uptimeWeek": "49.32%",
+    "uptimeMonth": "49.32%",
+    "uptimeYear": "49.32%",
     "time": 230,
     "timeDay": 195,
     "timeWeek": 230,
     "timeMonth": 230,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2021-12-19": 0,
+      "2021-12-19": 72,
       "2021-12-18": 706
     }
   }
