@@ -22,19 +22,19 @@
     "url": "https://miruku.cafe",
     "icon": "https://miruku.cafe/favicon.ico",
     "slug": "miruku",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 798,
-    "timeDay": 798,
-    "timeWeek": 798,
-    "timeMonth": 798,
-    "timeYear": 798,
+    "status": "up",
+    "uptime": "82.27%",
+    "uptimeDay": "82.27%",
+    "uptimeWeek": "82.27%",
+    "uptimeMonth": "82.27%",
+    "uptimeYear": "82.27%",
+    "time": 1097,
+    "timeDay": 1097,
+    "timeWeek": 1097,
+    "timeMonth": 1097,
+    "timeYear": 1097,
     "dailyMinutesDown": {
-      "2021-12-19": 0
+      "2021-12-19": 16
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "http://files.geshii.moe/favicon.ico",
     "slug": "chibisafe-temp-instance",
     "status": "down",
-    "uptime": "49.32%",
+    "uptime": "48.83%",
     "uptimeDay": "52.26%",
-    "uptimeWeek": "49.32%",
-    "uptimeMonth": "49.32%",
-    "uptimeYear": "49.32%",
+    "uptimeWeek": "48.83%",
+    "uptimeMonth": "48.83%",
+    "uptimeYear": "48.83%",
     "time": 230,
     "timeDay": 195,
     "timeWeek": 230,
     "timeMonth": 230,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2021-12-19": 72,
+      "2021-12-19": 88,
       "2021-12-18": 706
     }
   }
