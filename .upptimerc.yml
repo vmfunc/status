@@ -6,24 +6,32 @@ sites:
   - name: based.social
     url: https://based.social
     icon: https://based.social/favicon.ico
-    assignees:
-      - insertish
-      - infi
-      - geshii
-      - janderedev
+  - name: Miruku
+    url: https://miruku.cafe
+    icon: https://miruku.cafe/favicon.ico
+  - name: Data01 (Amsterdam)
+    url: $DATA_01
+    icon: https://cdn-icons-png.flaticon.com/512/1925/1925155.png
   - name: PSO2 Map Viewer
     url: http://map.geshii.moe
     icon: http://map.geshii.moe/favicon.ico
   - name: Chibisafe (temp instance)
-    url: http://geshii.moe
+    url: http://files.geshii.moe
     icon: http://files.geshii.moe/favicon.ico
 
+assignees:
+  - infi
+  - geshii
+  - wait-what
+  - insertish
+  - janderedev
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.miruku.cafe
   theme: light
-  name: BasedORG Status
+  name: BasedSoc & Miruku Status
   introTitle: "**based.social** is an org hosting multiple services for free, such as mastodon, and more."
   introMessage: This page is updated **real-time**, and contains the current status for all the services, and more
   navbar:
