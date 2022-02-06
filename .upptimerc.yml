@@ -18,6 +18,12 @@ sites:
   - name: Chibisafe (temp instance)
     url: http://files.geshii.moe
     icon: http://files.geshii.moe/favicon.ico
+  - name: Stream Server (NyaStream)
+    url: http://stream.geshii.moe
+    icon: http://stream.geshii.moe/favicon.ico
+  - name: VPN Server
+    url: $VPN
+    icon: https://cdn-icons-png.flaticon.com/512/1925/1925155.png
 
 assignees:
   - infi
