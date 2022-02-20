@@ -9,6 +9,12 @@ sites:
   - name: Miruku
     url: https://miruku.cafe
     icon: https://miruku.cafe/favicon.ico
+    assignees:
+      - infi
+      - geshii
+      - wait-what
+      - insertish
+      - janderedev
   - name: Data01 (Amsterdam)
     url: $DATA_01
     icon: https://cdn-icons-png.flaticon.com/512/1925/1925155.png
@@ -24,13 +30,6 @@ sites:
   - name: VPN Server
     url: $VPN
     icon: https://cdn-icons-png.flaticon.com/512/1925/1925155.png
-
-assignees:
-  - infi
-  - geshii
-  - wait-what
-  - insertish
-  - janderedev
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
