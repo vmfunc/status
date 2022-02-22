@@ -30,6 +30,11 @@ sites:
   - name: VPN Server
     url: $VPN
     icon: https://cdn-icons-png.flaticon.com/512/1925/1925155.png
+  - name: Mail
+    check: "tcp-ping"
+    url: vps.srv.janderedev.xyz
+    port: 25
+    icon: https://mail.amogus.cloud/img/cow_mailcow.svg
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
