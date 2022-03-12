@@ -14,7 +14,6 @@ sites:
       - geshii
       - wait-what
       - insertish
-      - janderedev
   - name: Data01 (Amsterdam)
     url: $DATA_01
     icon: https://cdn-icons-png.flaticon.com/512/1925/1925155.png
