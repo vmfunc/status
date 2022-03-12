@@ -20,8 +20,8 @@ sites:
   - name: PSO2 Map Viewer
     url: http://map.geshii.moe
     icon: http://map.geshii.moe/favicon.ico
-  - name: Chibisafe (temp instance)
-    url: http://files.geshii.moe
+  - name: NyaSafe
+    url: http://safe.miruku.cafe
     icon: http://files.geshii.moe/favicon.ico
   - name: Stream Server (NyaStream)
     url: http://stream.geshii.moe
