@@ -18,13 +18,13 @@ sites:
     url: $DATA_01
     icon: https://cdn-icons-png.flaticon.com/512/1925/1925155.png
   - name: PSO2 Map Viewer
-    url: http://map.geshii.moe
+    url: $VPN
     icon: http://map.geshii.moe/favicon.ico
   - name: NyaSafe
-    url: http://safe.miruku.cafe
+    url: $VPN
     icon: http://files.geshii.moe/favicon.ico
   - name: Stream Server (NyaStream)
-    url: http://stream.geshii.moe
+    url: $VPN
     icon: http://stream.geshii.moe/favicon.ico
   - name: VPN Server
     url: $VPN
