@@ -1,7 +1,7 @@
-url: http://stream.geshii.moe
-status: down
-code: 502
-responseTime: 736
-lastUpdated: 2022-04-03T23:03:24.456Z
+url: $VPN
+status: up
+code: 200
+responseTime: 50
+lastUpdated: 2022-04-04T17:57:09.703Z
 startTime: Sun Feb 06 2022 20:29:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
