@@ -22,19 +22,19 @@
     "url": "https://miruku.cafe",
     "icon": "https://miruku.cafe/favicon.ico",
     "slug": "miruku-misskey",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 751,
-    "timeDay": 849,
-    "timeWeek": 751,
-    "timeMonth": 751,
-    "timeYear": 751,
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
+    "time": 683,
+    "timeDay": 632,
+    "timeWeek": 683,
+    "timeMonth": 683,
+    "timeYear": 683,
     "dailyMinutesDown": {
-      "2022-05-09": 0
+      "2022-05-09": 22
     }
   },
   {
