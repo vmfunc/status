@@ -22,18 +22,19 @@
     "url": "https://miruku.cafe",
     "icon": "https://miruku.cafe/favicon.ico",
     "slug": "miruku-misskey",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 719,
-    "timeDay": 784,
-    "timeWeek": 709,
-    "timeMonth": 719,
-    "timeYear": 719,
+    "time": 706,
+    "timeDay": 625,
+    "timeWeek": 685,
+    "timeMonth": 706,
+    "timeYear": 706,
     "dailyMinutesDown": {
+      "2022-05-21": 0,
       "2022-05-14": 15,
       "2022-05-09": 22
     }
@@ -116,18 +117,18 @@
     "icon": "https://mail.amogus.cloud/img/cow_mailcow.svg",
     "slug": "mailserver",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.48%",
+    "uptimeDay": "77.00%",
+    "uptimeWeek": "96.71%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "98.48%",
     "time": 140,
     "timeDay": 142,
     "timeWeek": 134,
     "timeMonth": 140,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2022-05-21": 0
+      "2022-05-21": 331
     }
   },
   {
