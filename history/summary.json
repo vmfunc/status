@@ -23,11 +23,11 @@
     "icon": "https://miruku.cafe/favicon.ico",
     "slug": "miruku-misskey",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 719,
     "timeDay": 784,
     "timeWeek": 709,
@@ -115,7 +115,7 @@
     "url": "vps.srv.janderedev.xyz",
     "icon": "https://mail.amogus.cloud/img/cow_mailcow.svg",
     "slug": "mailserver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -126,7 +126,9 @@
     "timeWeek": 134,
     "timeMonth": 140,
     "timeYear": 140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-21": 0
+    }
   },
   {
     "name": "PSO2 Map Viewer",
@@ -134,11 +136,11 @@
     "icon": "http://map.geshii.moe/favicon.ico",
     "slug": "pso-2-map-viewer",
     "status": "up",
-    "uptime": "97.18%",
+    "uptime": "97.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.18%",
+    "uptimeYear": "97.19%",
     "time": 215,
     "timeDay": 64,
     "timeWeek": 69,
