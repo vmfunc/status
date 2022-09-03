@@ -1,7 +1,7 @@
 url: vps.srv.janderedev.xyz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-09-03T13:56:47.835Z
+status: up
+code: 200
+responseTime: 159
+lastUpdated: 2022-09-03T14:14:41.214Z
 startTime: Fri May 06 2022 16:52:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
