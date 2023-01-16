@@ -25,7 +25,10 @@ sites:
     icon: http://files.geshii.moe/favicon.ico
   - name: OwnCast
     url: $VPN
-    icon: http://stream.geshii.moe/favicon.ico
+    icon: http://nyan.initmd.xyz/favicon.ico
+  - name: Invidious
+    url:  https://yt.miruku.cafe/
+    icon: https://yt.miruku.cafe/favicon.ico
   - name: VPN Server
     url: $VPN
     icon: https://cdn-icons-png.flaticon.com/512/1925/1925155.png
