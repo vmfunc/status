@@ -48,7 +48,7 @@ status-website:
   theme: light
   links:
     - rel: stylesheet
-      href: https://raw.githubusercontent.com/koishiionline/status/master/custom/style.css
+      href: https://koishii.online/status.css
   name: Status
   introTitle: "**Status page for** miruku.cafe, koishii and based.social; an org hosting multiple communication, and other services for free, such as mastodon, and more."
   introMessage: This page is updated **real-time**, and contains the current status for all the services, and more
