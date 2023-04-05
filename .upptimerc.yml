@@ -46,12 +46,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.miruku.cafe
   theme: light
-  name: Miruku & BasedSoc Status
-  introTitle: "**Miruku.cafe** and based.social is an org hosting multiple communication, and other services for free, such as mastodon, and more."
+  links:
+    - rel: stylesheet
+      href: https://raw.githubusercontent.com/koishiionline/status/master/custom/style.css
+  name: Status
+  introTitle: "**Status page for** miruku.cafe, koishii and based.social; an org hosting multiple communication, and other services for free, such as mastodon, and more."
   introMessage: This page is updated **real-time**, and contains the current status for all the services, and more
   navbar:
-    - title: Status
-      href: /
+    - title: Home
+      href: https://koishii.online
     - title: Misskey
       href: https://miruku.cafe
     - title: GitHub
