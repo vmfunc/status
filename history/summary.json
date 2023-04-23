@@ -4,19 +4,19 @@
     "url": "https://koishii.online",
     "icon": "https://koishii.online/favicon.ico",
     "slug": "koishii-online",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 223,
-    "timeDay": 750,
-    "timeWeek": 283,
-    "timeMonth": 223,
-    "timeYear": 223,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 229,
+    "timeDay": 619,
+    "timeWeek": 291,
+    "timeMonth": 229,
+    "timeYear": 229,
     "dailyMinutesDown": {
-      "2023-04-23": 2
+      "2023-04-23": 58
     }
   },
   {
@@ -122,7 +122,7 @@
     "timeMonth": 376,
     "timeYear": 700,
     "dailyMinutesDown": {
-      "2023-04-23": 902,
+      "2023-04-23": 960,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
