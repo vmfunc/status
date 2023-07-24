@@ -110,7 +110,7 @@
     "timeMonth": 0,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2023-07-24": 29,
+      "2023-07-24": 54,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
@@ -550,19 +550,19 @@
     "url": "$VPN",
     "icon": "http://files.geshii.moe/favicon.ico",
     "slug": "nya-safe-storage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 342,
-    "timeWeek": 221,
-    "timeMonth": 212,
+    "timeDay": 269,
+    "timeWeek": 212,
+    "timeMonth": 209,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2023-07-24": 0
+      "2023-07-24": 25
     }
   },
   {
@@ -570,19 +570,19 @@
     "url": "$VPN",
     "icon": "http://nyan.initmd.xyz/favicon.ico",
     "slug": "own-cast",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 87,
-    "timeDay": 203,
-    "timeWeek": 141,
-    "timeMonth": 109,
+    "timeDay": 156,
+    "timeWeek": 133,
+    "timeMonth": 108,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2023-07-24": 0
+      "2023-07-24": 25
     }
   },
   {
@@ -612,19 +612,19 @@
     "url": "$VPN",
     "icon": "https://cdn-icons-png.flaticon.com/512/1925/1925155.png",
     "slug": "vpn-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 92,
-    "timeDay": 234,
-    "timeWeek": 139,
-    "timeMonth": 108,
+    "time": 91,
+    "timeDay": 177,
+    "timeWeek": 132,
+    "timeMonth": 106,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2023-07-24": 0
+      "2023-07-24": 25
     }
   },
   {
@@ -710,19 +710,19 @@
     "url": "$VPN",
     "icon": "http://map.geshii.moe/favicon.ico",
     "slug": "pso-2-map-viewer",
-    "status": "down",
-    "uptime": "99.26%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.25%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 95,
-    "timeDay": 179,
-    "timeWeek": 132,
-    "timeMonth": 105,
-    "timeYear": 90,
+    "time": 94,
+    "timeDay": 141,
+    "timeWeek": 126,
+    "timeMonth": 104,
+    "timeYear": 89,
     "dailyMinutesDown": {
-      "2023-07-24": 0
+      "2023-07-24": 25
     }
   }
 ]
