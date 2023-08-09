@@ -1,7 +1,7 @@
 url: https://based.social
-status: up
-code: 200
-responseTime: 414
-lastUpdated: 2023-08-09T13:48:39.268Z
+status: down
+code: 500
+responseTime: 523
+lastUpdated: 2023-08-09T14:05:48.316Z
 startTime: Fri May 06 2022 16:52:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
