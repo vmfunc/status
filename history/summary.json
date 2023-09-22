@@ -86,19 +86,19 @@
     "url": "https://vivid.camp",
     "icon": "https://vivid.camp/favicon.ico",
     "slug": "vivid-camp",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 524,
-    "timeDay": 6521,
-    "timeWeek": 2451,
-    "timeMonth": 958,
+    "timeDay": 5040,
+    "timeWeek": 2266,
+    "timeMonth": 947,
     "timeYear": 524,
     "dailyMinutesDown": {
-      "2023-09-22": 26
+      "2023-09-22": 41
     }
   },
   {
@@ -118,7 +118,7 @@
     "timeMonth": 0,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2023-09-22": 1409,
+      "2023-09-22": 1424,
       "2023-09-21": 1440,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
@@ -657,7 +657,7 @@
     "timeMonth": 109,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2023-09-22": 1409,
+      "2023-09-22": 1424,
       "2023-09-21": 1440,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
