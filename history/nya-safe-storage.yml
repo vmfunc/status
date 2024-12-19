@@ -1,7 +1,7 @@
 url: $VPN
-status: down
-code: 429
-responseTime: 526
-lastUpdated: 2024-12-19T05:07:25.321Z
+status: up
+code: 200
+responseTime: 139
+lastUpdated: 2024-12-19T05:19:30.627Z
 startTime: 2022-05-06T16:52:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
