@@ -5,7 +5,7 @@
     "icon": "https://koishii.online/favicon.ico",
     "slug": "koishii-online",
     "status": "down",
-    "uptime": "49.35%",
+    "uptime": "49.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-06": 1255,
+      "2025-07-06": 1264,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -393,7 +393,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.72%",
+    "uptimeYear": "65.73%",
     "time": 377,
     "timeDay": 301,
     "timeWeek": 318,
@@ -581,7 +581,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-06": 1255,
+      "2025-07-06": 1264,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -965,7 +965,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-06": 1255,
+      "2025-07-06": 1264,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -1349,7 +1349,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-06": 1255,
+      "2025-07-06": 1264,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -1744,19 +1744,19 @@
     "url": "$VPN",
     "icon": "http://files.geshii.moe/favicon.ico",
     "slug": "nya-safe-storage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 180,
-    "timeDay": 256,
-    "timeWeek": 178,
-    "timeMonth": 168,
+    "time": 179,
+    "timeDay": 204,
+    "timeWeek": 169,
+    "timeMonth": 166,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-07-06": 0
+      "2025-07-06": 9
     }
   },
   {
@@ -1764,19 +1764,19 @@
     "url": "$VPN",
     "icon": "http://nyan.initmd.xyz/favicon.ico",
     "slug": "own-cast",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 241,
-    "timeWeek": 111,
-    "timeMonth": 83,
+    "time": 102,
+    "timeDay": 177,
+    "timeWeek": 104,
+    "timeMonth": 82,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2025-07-06": 0
+      "2025-07-06": 9
     }
   },
   {
@@ -1796,7 +1796,7 @@
     "timeMonth": 0,
     "timeYear": 1228,
     "dailyMinutesDown": {
-      "2025-07-06": 1255,
+      "2025-07-06": 1265,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -2031,19 +2031,19 @@
     "url": "$VPN",
     "icon": "https://cdn-icons-png.flaticon.com/512/1925/1925155.png",
     "slug": "vpn-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 282,
-    "timeWeek": 122,
-    "timeMonth": 86,
+    "timeDay": 202,
+    "timeWeek": 113,
+    "timeMonth": 84,
     "timeYear": 99,
     "dailyMinutesDown": {
-      "2025-07-06": 0
+      "2025-07-06": 9
     }
   },
   {
@@ -2063,7 +2063,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-06": 1255,
+      "2025-07-06": 1265,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -2435,19 +2435,19 @@
     "url": "$VPN",
     "icon": "http://map.geshii.moe/favicon.ico",
     "slug": "pso-2-map-viewer",
-    "status": "down",
+    "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 105,
-    "timeDay": 232,
-    "timeWeek": 112,
-    "timeMonth": 83,
+    "time": 104,
+    "timeDay": 171,
+    "timeWeek": 105,
+    "timeMonth": 82,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2025-07-06": 0
+      "2025-07-06": 9
     }
   }
 ]
