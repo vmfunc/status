@@ -5,18 +5,19 @@
     "icon": "https://koishii.online/favicon.ico",
     "slug": "koishii-online",
     "status": "down",
-    "uptime": "47.32%",
+    "uptime": "47.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 191,
+    "time": 182,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-11": 28,
+      "2025-08-12": 25,
+      "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
@@ -379,8 +380,7 @@
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
-      "2024-08-13": 1440,
-      "2024-08-12": 1440
+      "2024-08-13": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://based.social/favicon.ico",
     "slug": "based-social-mastodon",
     "status": "up",
-    "uptime": "71.43%",
+    "uptime": "71.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.35%",
-    "time": 361,
-    "timeDay": 426,
-    "timeWeek": 361,
-    "timeMonth": 235,
-    "timeYear": 300,
+    "uptimeYear": "75.63%",
+    "time": 360,
+    "timeDay": 276,
+    "timeWeek": 345,
+    "timeMonth": 229,
+    "timeYear": 299,
     "dailyMinutesDown": {
       "2024-11-18": 1411,
       "2024-11-17": 1440,
@@ -488,8 +488,7 @@
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
-      "2024-08-13": 1440,
-      "2024-08-12": 1440
+      "2024-08-13": 1440
     }
   },
   {
@@ -504,9 +503,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.97%",
     "time": 953,
-    "timeDay": 488,
-    "timeWeek": 849,
-    "timeMonth": 785,
+    "timeDay": 655,
+    "timeWeek": 819,
+    "timeMonth": 780,
     "timeYear": 1042,
     "dailyMinutesDown": {
       "2025-06-26": 58,
@@ -533,7 +532,7 @@
     "icon": "https://vivid.camp/favicon.ico",
     "slug": "vivid-camp",
     "status": "down",
-    "uptime": "29.44%",
+    "uptime": "29.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -544,7 +543,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-11": 28,
+      "2025-08-12": 25,
+      "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
@@ -907,8 +907,7 @@
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
-      "2024-08-13": 1440,
-      "2024-08-12": 1440
+      "2024-08-13": 1440
     }
   },
   {
@@ -928,7 +927,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-11": 28,
+      "2025-08-12": 25,
+      "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
@@ -1291,8 +1291,7 @@
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
-      "2024-08-13": 1440,
-      "2024-08-12": 1440
+      "2024-08-13": 1440
     }
   },
   {
@@ -1301,7 +1300,7 @@
     "icon": "https://cve2k9.club/favicon.ico",
     "slug": "cve2k9",
     "status": "down",
-    "uptime": "37.87%",
+    "uptime": "37.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1312,7 +1311,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-11": 28,
+      "2025-08-12": 25,
+      "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
@@ -1675,8 +1675,7 @@
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
-      "2024-08-13": 1440,
-      "2024-08-12": 1440
+      "2024-08-13": 1440
     }
   },
   {
@@ -1691,9 +1690,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
     "time": 916,
-    "timeDay": 692,
-    "timeWeek": 729,
-    "timeMonth": 864,
+    "timeDay": 855,
+    "timeWeek": 717,
+    "timeMonth": 868,
     "timeYear": 939,
     "dailyMinutesDown": {
       "2025-08-05": 29,
@@ -1713,10 +1712,10 @@
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 180,
-    "timeDay": 114,
-    "timeWeek": 202,
-    "timeMonth": 165,
+    "time": 181,
+    "timeDay": 278,
+    "timeWeek": 182,
+    "timeMonth": 169,
     "timeYear": 180,
     "dailyMinutesDown": {
       "2025-08-06": 49
@@ -1734,9 +1733,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 51,
-    "timeWeek": 88,
-    "timeMonth": 73,
+    "timeDay": 115,
+    "timeWeek": 86,
+    "timeMonth": 74,
     "timeYear": 95,
     "dailyMinutesDown": {
       "2025-08-06": 49
@@ -1748,18 +1747,19 @@
     "icon": "https://yt.miruku.cafe/favicon.ico",
     "slug": "invidious",
     "status": "down",
-    "uptime": "72.38%",
+    "uptime": "72.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.44%",
-    "time": 1069,
+    "uptimeYear": "29.17%",
+    "time": 1070,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1006,
+    "timeYear": 1010,
     "dailyMinutesDown": {
-      "2025-08-11": 29,
+      "2025-08-12": 25,
+      "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
@@ -2035,9 +2035,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 52,
-    "timeWeek": 123,
-    "timeMonth": 82,
+    "timeDay": 119,
+    "timeWeek": 119,
+    "timeMonth": 84,
     "timeYear": 97,
     "dailyMinutesDown": {
       "2025-08-06": 49
@@ -2049,7 +2049,7 @@
     "icon": "https://mail.amogus.cloud/img/cow_mailcow.svg",
     "slug": "mailserver",
     "status": "down",
-    "uptime": "35.51%",
+    "uptime": "35.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2060,7 +2060,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-11": 29,
+      "2025-08-12": 25,
+      "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
@@ -2423,8 +2424,7 @@
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
-      "2024-08-13": 1440,
-      "2024-08-12": 1440
+      "2024-08-13": 1440
     }
   },
   {
@@ -2439,9 +2439,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 48,
-    "timeWeek": 108,
-    "timeMonth": 78,
+    "timeDay": 119,
+    "timeWeek": 106,
+    "timeMonth": 80,
     "timeYear": 95,
     "dailyMinutesDown": {
       "2025-08-06": 49
